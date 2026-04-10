@@ -30,8 +30,8 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("🎯 **Status: 寻找实习中**")
     st.markdown("我目前正在积极寻找 **202X年 暑期/日常实习**（数据科学 / 软件开发方向）。")
-    st.markdown("🔗 [点击查看我的 GitHub 源码](https://github.com/你的名字/你的仓库名)") # 记得替换成你的真实链接
-    st.markdown("📧 联系方式: your.email@example.com") # 记得替换成你的邮箱
+    st.markdown("🔗 [点击查看我的 GitHub 源码](https://github.com/Lisnowm") # 记得替换成你的真实链接
+    st.markdown("📧 联系方式: lix34@gmail.com") # 记得替换成你的邮箱
 
 # --- Configuration Section ---
 REINFORCERS = [
